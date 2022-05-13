@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UciEngineHost", "UciEngineHost\UciEngineHost.csproj", "{9A17C7D1-56CF-4494-8BEC-54B3F4C96997}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AC53DBBE-C6DD-4034-BC4B-D68FC6BE29DE}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A17C7D1-56CF-4494-8BEC-54B3F4C96997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A17C7D1-56CF-4494-8BEC-54B3F4C96997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A17C7D1-56CF-4494-8BEC-54B3F4C96997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A17C7D1-56CF-4494-8BEC-54B3F4C96997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F01C81F6-E7EB-4F32-9E17-5828E25754A6}
+	EndGlobalSection
+EndGlobal

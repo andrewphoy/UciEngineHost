@@ -1,0 +1,12 @@
+{
+  "Engines": [
+    {
+      "Name": "Stockfish 15",
+      "Path": "Stockfish 15/stockfish_15_x64_popcnt.exe"
+    },
+    {
+      "Name": "Leela",
+      "Path": "Leela/lc0.exe"
+    }
+  ]
+}
